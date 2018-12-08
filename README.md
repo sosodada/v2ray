@@ -47,6 +47,7 @@ v2ray uninstall 卸载 V2Ray
 
 
 配置文件路径
+
 V2Ray 配置文件路径：/etc/v2ray/config.json
 
 Caddy 配置文件路径：/etc/caddy/Caddyfile
